@@ -7,6 +7,7 @@ Marketvesitario es una plataforma tipo marketplace universitario orientada a la 
 Facilitar el acceso a productos, servicios y apoyo académico dentro de la comunidad universitaria, promoviendo la economía colaborativa.
 
 ## Documentación
+-Justificacion: https://docs.google.com/document/d/1S_uCDQvk3OqZPv92ULqyzYKSbYKVmEzLZSlaVT38Wu4/edit?usp=sharing
 - Plan de negocio: https://docs.google.com/document/d/11D14x0WriyHwGhULsdCjaE42dLMMSomK88bFuRAET1Q/edit?usp=sharing
 - Documentos para la constitución de la empresa: https://docs.google.com/document/d/1gJGo9JqB1hzp53lofU24mvDNDGXd_3F6KEO5vnuL89k/edit?usp=sharing
 
